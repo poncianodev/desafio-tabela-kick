@@ -1,1 +1,1 @@
-# desafio-tabelas-kick
+# desafio-tabela-kick
